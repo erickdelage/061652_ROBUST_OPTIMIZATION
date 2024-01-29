@@ -1,5 +1,3 @@
-# 061652_ROBUST_OPTIMIZATION
-
 This is a repository for the students of the course "061652 ROBUST OPTIMIZATION" offered at Politecnico di Milano.
 
 
