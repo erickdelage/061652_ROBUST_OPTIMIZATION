@@ -1,4 +1,4 @@
-# Welcome to the website of 061652 ROBUST OPTIMIZATION
+Welcome to the website of 061652 ROBUST OPTIMIZATION
 
 This is a repository for the students of the course "061652 ROBUST OPTIMIZATION" offered at Politecnico di Milano.
 
