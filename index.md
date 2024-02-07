@@ -28,7 +28,7 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 # Schedule
 
 Tuesday 27/02, 9:30am - 12:30pm: Room Alhpa, building 24  
-Lecture: Why do robust optimization? ([Ch.1](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))
+Lecture: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))
 
 Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))
