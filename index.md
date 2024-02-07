@@ -52,7 +52,7 @@ Lecture: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))
 Exercise: Deriving the reformulation of a robust NLP
 
 Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Globalized Robust Optimization ([Ch.7](./LectureNotes_v15.pdf))+ Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
+Lecture: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
 Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
