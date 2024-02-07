@@ -8,7 +8,7 @@ Assignment #1
 
 Complete ...  
 Due date : TBD.   
-Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions to assignment 1)
+Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions_assignment_1)
 
 Assignment #2
 
@@ -21,6 +21,6 @@ Colab code for exercises of chapter 5:
 [https://colab.research.google.com/drive/1254-xKF8dJ44aoSHAcBkPx5QpuEGYJDn?usp=sharing](https://colab.research.google.com/drive/1254-xKF8dJ44aoSHAcBkPx5QpuEGYJDn?usp=sharing)https://colab.research.google.com/drive/1254-xKF8dJ44aoSHAcBkPx5QpuEGYJDn?usp=sharing
 
 Due date : TBD
-Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions to assignment 2)
+Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions_assignment_2)
 
 
