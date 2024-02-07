@@ -12,7 +12,7 @@ Submit by email at: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Sol
 
 Assignment #2
 
-Complete Exercises 4.3, 5.4, and 5.5 of the [lecture notes](./LectureNotes_v15.pdf).
+Complete exercises 4.3, 5.4, and 5.5 of the [lecture notes](./LectureNotes_v15.pdf).
 
 Colab code for exercises of chapter 4:
 [https://colab.research.google.com/drive/1rJuWRgkd96i9nY9MwRMtahg_qDU-dBTm?usp=sharing](https://colab.research.google.com/drive/1rJuWRgkd96i9nY9MwRMtahg_qDU-dBTm?usp=sharing)
