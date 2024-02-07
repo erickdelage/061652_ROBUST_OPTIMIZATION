@@ -2,7 +2,7 @@
 title: Exercises & Labs
 ---
 
-_Exercise & Lab on Thursday 29/02: Deriving the reformulation of a robust LP and implementing it in  Python_
+_Exercise & Lab on Thursday 29/02/2024: Deriving the reformulation of a robust LP and implementing it in  Python_
 
 Complete exercises 2.1, 2.2, 2.3 of the [lecture notes](./LectureNotes_v15.pdf).  
 Colab code for exercises of chapter 2:  
@@ -10,7 +10,7 @@ Colab code for exercises of chapter 2:
   
 
   
-_Lab on Tuesday 05/03/20: Implementing an adjustable robust linear program in Python_
+_Lab on Tuesday 05/03/2024: Implementing an adjustable robust linear program in Python_
 
 Complete exercises 5.1, 5.2, 5.3 of the [lecture notes](./LectureNotes_v15.pdf).  
 Colab code for exercises of chapter 5:  
@@ -18,12 +18,12 @@ Colab code for exercises of chapter 5:
 
 
   
-_Exercise on Wednesday 06/03/20: Deriving the reformulation of a robust NLP_
+_Exercise on Wednesday 06/03/2024: Deriving the reformulation of a robust NLP_
 
 Complete Exercise 6.3 of the [lecture notes](./LectureNotes_v15.pdf).
 
 
   
-_Exercise on Friday 08/03/20: Deriving the reformulation of a robust NLP_
+_Exercise on Friday 08/03/2024: Deriving the reformulation of a robust NLP_
 
 Complete exercises 8.1 and 8.2 of the [lecture notes](./LectureNotes_v15.pdf).
