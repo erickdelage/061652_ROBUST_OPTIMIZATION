@@ -15,4 +15,4 @@ Generally speaking, the report and presentation should discuss the following:
 - Summary of numerical findings
 
 Due date: April 8th, 2024
-Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=061652_Project_report)
+Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=061652_Project_report:)
