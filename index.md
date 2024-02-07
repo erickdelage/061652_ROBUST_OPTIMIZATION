@@ -19,7 +19,7 @@ Email: [erick.delage@hec.ca](mailto:erick.delage@hec.ca)
 
 # Course Material
 
-The course will be based on a my lecture notes which can be found [here](./LectureNotes_v15.pdf).
+The course will be based on a my lecture notes which can be found ([here](./LectureNotes_v15.pdf)).
 
 # Software
 
