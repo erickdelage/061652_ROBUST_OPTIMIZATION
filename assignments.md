@@ -6,8 +6,8 @@ The two assignments will consist of exercises that allow students to experiment 
 
 Assignment #1
 
-Complete ...
-Due date : TBD
+Complete ...  
+Due date : TBD.   
 Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions to assignment 1)
 
 Assignment #2
