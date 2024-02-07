@@ -14,7 +14,7 @@ At the end of the course, the students should be able to:
 
 Name: Erick Delage  
 Website: [http://tintin.hec.ca/pages/erick.delage/](http://tintin.hec.ca/pages/erick.delage/)  
-Email: [erick.delage@hec.ca](mailto:erick.delage@hec.ca)  
+Email: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=061652:)  
 
 
 # Course Material
