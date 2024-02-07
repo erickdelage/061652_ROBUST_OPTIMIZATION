@@ -19,7 +19,7 @@ Email: [erick.delage@hec.ca](mailto:erick.delage@hec.ca)
 
 # Course Material
 
-The course will be based on a my lecture notes which can be found [here](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf).
+The course will be based on a my lecture notes which can be found [here]([here](./LectureNotes_v15.pdf).
 
 # Software
 
@@ -28,34 +28,34 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 # Schedule
 
 Tuesday 27/02, 9:30am - 12:30pm: Room Alhpa, building 24  
-Lecture: Why do robust optimization? ([Ch.1](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf)) + Convex optimization ([Ch.10.1](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))
+Lecture: Why do robust optimization? ([Ch.1](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))
 
 Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Robust Linear Programming ([Ch.2](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))
+Lecture: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))
 
 Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20  
 Exercise: Deriving the reformulation of a robust LP  
 Lab: Implementing a robust linear program in Python 
 
 Friday 01/03, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture:  Uncertainty set design ([Ch.3](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))
+Lecture:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))
 
 Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Adjustable Robust Linear Programming - Part 1 ([Ch.4](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))
+Lecture: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
 
 Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Adjustable Robust Linear Programming - Part 2 ([Ch.5](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))  
+Lecture: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 Lab: Implementing an adjustable robust linear program in Python  
 
 Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Robust Non-linear programming ([Ch.6](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))  
+Lecture: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 Exercise: Deriving the reformulation of a robust NLP
 
 Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Globalized Robust Optimization ([Ch.7](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))+ Distributionally robust optimization - Part 1 ([Ch.8](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))
+Lecture: Globalized Robust Optimization ([Ch.7](./LectureNotes_v15.pdf))+ Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
 Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  
-Lecture: Distributionally robust optimization - Part 2 ([Ch.8](http://tintin.hec.ca/pages/erick.delage/MATH80624_LectureNotes.pdf))  
+Lecture: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
 Exercise: Deriving the reformulation of a distributionally robust optimization problem
 
 # Evaluation
