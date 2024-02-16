@@ -16,6 +16,8 @@ Due date : Monday, March 4th, 2024.
 Submit by email at: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions_assignment_1)
 Your email should contain a pdf presenting the answers to the questions and links to Google Colab notebooks implementing the code. Please make sure that you set the Colab notebook with the sharing setting: "Anyone with the link" is a "viewer".
 
+<br/><br/>
+
 Assignment #2
 
 Complete exercises 4.3, 5.4, and 5.5 of the [lecture notes](./LectureNotes_v15.pdf).
