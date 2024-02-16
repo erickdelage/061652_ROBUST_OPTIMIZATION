@@ -43,18 +43,18 @@ Lecture:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))
 Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
 
-Tuesday 05/03, 9:30am - 12:30pm: Seminar room, building 20  
+Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 Lab: Implementing an adjustable robust linear program in Python  
 
-Wednesday 06/03, 9:30am - 12:30pm: Seminar room, building 20  
+Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 Exercise: Deriving the reformulation of a robust NLP
 
-Thursday 07/03, 9:30am - 12:30pm: Seminar room, building 20  
+Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
-Friday 08/03, 9:30am - 12:30pm: Seminar room, building 20  
+Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
 Exercise: Deriving the reformulation of a distributionally robust optimization problem
 
