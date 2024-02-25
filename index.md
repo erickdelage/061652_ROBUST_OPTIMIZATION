@@ -34,8 +34,8 @@ Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20
 Lecture: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))
 
 Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20  
-Exercise: Deriving the reformulation of a robust LP  
-Lab: Implementing a robust linear program in Python 
+[Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
+[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
 
 Friday 01/03, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))
@@ -45,23 +45,24 @@ Lecture: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v1
 
 Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
-Lab: Implementing an adjustable robust linear program in Python  
+[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
 
 Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
-Exercise: Deriving the reformulation of a robust NLP
+[Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP
 
 Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
 Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  
 Lecture: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
-Exercise: Deriving the reformulation of a distributionally robust optimization problem
+[Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem
 
 # Evaluation
 
-Assignment \#1 (25\%) : More details to come.  
-Assignment \#2 (25\%) : More details to come.   
-Project (50\%) : More details to come.  
+[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25\%)
+[Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25\%)  
+
+[Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50\%)
 
 
