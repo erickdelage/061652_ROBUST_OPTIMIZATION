@@ -19,6 +19,6 @@ _Exercise on Wednesday 06/03/2024: Deriving the reformulation of a robust NLP_
 Complete Exercise 6.3 of the [lecture notes](./LectureNotes_v15.pdf).
 <br/><br/>
  
-_Exercise on Friday 08/03/2024: Deriving the reformulation of a robust NLP_
+_Exercise on Friday 08/03/2024: Deriving the reformulation of a distributionally robust optimization problem_
 
 Complete exercises 8.1 and 8.2 of the [lecture notes](./LectureNotes_v15.pdf).
