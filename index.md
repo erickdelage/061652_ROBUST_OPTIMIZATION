@@ -60,7 +60,7 @@ Lecture: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v1
 
 # Evaluation
 
-[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25\%)
+[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25\%)  
 [Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25\%)  
 
 [Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50\%)
