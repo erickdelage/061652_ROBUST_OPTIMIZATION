@@ -24,7 +24,7 @@ Assignment #2
 Complete exercises 4.3, 5.4, and 5.5 of the [lecture notes](./LectureNotes_v15.pdf).
 
 Colab code for exercises of chapter 4: [Google Colab notebook](https://colab.research.google.com/drive/1rJuWRgkd96i9nY9MwRMtahg_qDU-dBTm?usp=sharing)  
-Note that you don't need to fill the section of the code requesting a solution to exercice 4.1.
+<span style="color:red">**Warning!** You don't need to fill the section of the code requesting a solution to exercice 4.1.</span>
 
 Colab code for exercises of chapter 5: [Google Colab notebook](https://colab.research.google.com/drive/1254-xKF8dJ44aoSHAcBkPx5QpuEGYJDn?usp=sharing)
 
