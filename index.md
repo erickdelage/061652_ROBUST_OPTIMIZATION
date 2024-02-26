@@ -40,8 +40,8 @@ Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
 
 Friday 01/03, 9:30am - 12:30pm: Seminar room, building 20  
-Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))
-Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)
+Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
+Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
 
 Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20  
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
