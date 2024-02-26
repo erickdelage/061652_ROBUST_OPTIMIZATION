@@ -12,7 +12,9 @@ Complete exercises 3.1, 3.2, 3.3, 3.4 of the [lecture notes](./LectureNotes_v15.
 
 Colab code for exercises 3.1, 3.2, 3.3: [Google Colab notebook](https://colab.research.google.com/drive/1K5dHuN0ipbDBDpbLiHZOEzGw0-Q5e-C4?usp=sharing)
 
-Colab code for exercises 3.4: [Google Colab notebook](https://colab.research.google.com/drive/1_MWEmTvNp0c16pYJJffblFE-Yq-PPxSB?usp=drive_link)
+Colab code for exercises 3.4: [Google Colab notebook](https://colab.research.google.com/drive/1_MWEmTvNp0c16pYJJffblFE-Yq-PPxSB?usp=drive_link)   
+<span style="color:red">**Warning!** You don't need to fill the section of the code requesting the implementation of the reduced form of the robust optimization model.</span>
+
 
 Due date : Monday, March 4th, 2024.  
 
