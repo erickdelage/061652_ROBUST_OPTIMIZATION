@@ -33,6 +33,7 @@ Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysi
 
 Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))
+Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)
 
 Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
