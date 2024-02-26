@@ -32,8 +32,8 @@ Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex 
 Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/Intro.pdf)
 
 Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
-Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))
-Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)
+Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
+Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
 
 Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
@@ -41,6 +41,7 @@ Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20
 
 Friday 01/03, 9:30am - 12:30pm: Seminar room, building 20  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))
+Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)
 
 Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20  
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
