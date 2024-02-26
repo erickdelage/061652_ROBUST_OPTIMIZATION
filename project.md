@@ -10,7 +10,7 @@ Generally speaking, the final project report should be 10-12 pages long and disc
 - Presentation of the decision problem in its deterministic form
 - Motivation regarding the key uncertainties in this problem
 - Presentation of a robust optimization model
-- Description of the solution scheme (either through reformulation or decomposition methods)
+- Description of the solution scheme
 - Presentation of experimental setup
 - Summary of numerical findings
 
