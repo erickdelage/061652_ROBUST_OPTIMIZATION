@@ -2,9 +2,11 @@
 title: Assignments
 ---
 
-The two assignments will consist of exercises that allow students to experiment with the concepts presented in chapters 2, 3, 4, and 5 of the lecture notes.
+The two assignments will consist of exercises that allow students to experiment with the concepts presented in chapters 2, 3, 4, and 5 of the lecture notes.  
 
-Assignment #1
+<br/><br/>
+
+_Assignment #1_
 
 Complete exercises 3.1, 3.2, 3.3, 3.4 of the [lecture notes](./LectureNotes_v15.pdf).
 
@@ -19,7 +21,7 @@ Your email should contain a pdf presenting the answers to the questions and link
 
 <br/><br/>
 
-Assignment #2
+_Assignment #2_
 
 Complete exercises 4.3, 5.4, and 5.5 of the [lecture notes](./LectureNotes_v15.pdf).
 
