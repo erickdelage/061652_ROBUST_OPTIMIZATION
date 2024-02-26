@@ -18,4 +18,4 @@ Due date of proposal: March 8th, 2024
 Due date for report: May 8th, 2024  
 Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=061652_Project_report:)
 
-Refer to this list of scientific papers for possible topics: [pdf](./ProjectReferenceList.pdf)
+Refer to this list of scientific papers for suggested topics: [pdf](./ProjectReferenceList.pdf)
