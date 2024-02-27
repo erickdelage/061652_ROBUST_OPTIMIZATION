@@ -69,6 +69,9 @@ Teams of two students
 [Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #1  
 [Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #2  
 
-[Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report
+[Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report  
+
+To pass the course, a student must have successfully completed one of the assignment and the project.
+
 
 
