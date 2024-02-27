@@ -66,8 +66,8 @@ Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v
 Teams of two students  
 <span style="color:red">(Each team decides which member of the team submits which assignment.)</span>  
 
-[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #1  
-[Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #2  
+[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (50%, individual): team member #1  
+[Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (50%, individual): team member #2  
 
 [Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report  
 
