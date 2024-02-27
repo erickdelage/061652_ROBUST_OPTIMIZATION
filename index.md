@@ -29,35 +29,35 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 
 Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24  
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
-Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/Intro.pdf)
+Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)
 
-Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
+Wednesday 28/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
 Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
 
-Thursday 29/02, 9:30am - 12:30pm: Seminar room, building 20  
+Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
 
-Friday 01/03, 9:30am - 12:30pm: Seminar room, building 20  
+Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
 Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
 
-Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20  
+Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20 (To be confirmed)  
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
 
-Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  
+Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
 
-Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  
+Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP
 
-Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  
+Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
 Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
-Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  
+Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
 Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem
 
@@ -66,8 +66,8 @@ Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v
 Teams of two students  
 <span style="color:red">(Each team decides which member of the team submits which assignment.)</span>  
 
-[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #1  
-[Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (25%, individual): team member #2  
+[Assignment \#1](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (50%, individual): team member #1  
+[Assignment \#2](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/assignments.html) (50%, individual): team member #2  
 
 [Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report  
 
