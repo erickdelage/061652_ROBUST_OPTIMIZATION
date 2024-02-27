@@ -29,7 +29,7 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 
 Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24  
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
-Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/Intro.pdf)
+Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)
 
 Wednesday 28/02, 9:30am - 12:30pm: Seminar room, building 20  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
