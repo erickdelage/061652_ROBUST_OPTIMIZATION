@@ -31,15 +31,15 @@ Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
 Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)
 
-Wednesday 28/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
+Wednesday 28/02, 9:30am - 12:30pm: Room 2.1, building 25  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
 Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
 
-Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
+Thursday 29/02, 9:30am - 12:30pm: Room 2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
 
-Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
+Friday 01/03, 9:30am - 12:30pm: Room 2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
 Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
 
