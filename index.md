@@ -30,18 +30,18 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24  
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
 Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)  
-**New** Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
+**(New)** Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
 
 Wednesday 28/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
 Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
-**New** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)
+**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)
 
 Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python  
-**New** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1K-ohlOds1bCcI70CVekdb9fvfuRYSGRA?usp=sharing)  
-**New** Solutions to written exercises: [ExercisesSolutions_Chap2.pdf](./Material/ExercisesSolutions_Chap2.pdf)
+**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1K-ohlOds1bCcI70CVekdb9fvfuRYSGRA?usp=sharing)  
+**(New)** Solutions to written exercises: [ExercisesSolutions_Chap2.pdf](./Material/ExercisesSolutions_Chap2.pdf)
 
 Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
