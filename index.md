@@ -39,7 +39,9 @@ Google Colab code written in class: [Colab notebook](https://colab.research.goog
 
 Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
-[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
+[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python  
+Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1K-ohlOds1bCcI70CVekdb9fvfuRYSGRA?usp=sharing)
+Solutions to written exercises: [ExercisesSolutions_Chap2.pdf](./Material/ExercisesSolutions_Chap2.pdf)
 
 Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
