@@ -52,9 +52,6 @@ Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf
 Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20 (To be confirmed)  
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
 
-(**New**) Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
-Optional seminar: [Data-driven Conditional Robust Optimization](https://www.deib.polimi.it/ita/eventi/dettagli/2861)
-
 Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
@@ -81,6 +78,12 @@ Teams of two students
 [Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report  
 
 To pass the course, a student must have successfully completed one of the assignment and the project.
+
+
+# Additional information
+
+(**New**) Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
+Optional seminar: [Data-driven Conditional Robust Optimization](https://www.deib.polimi.it/ita/eventi/dettagli/2861)
 
 
 
