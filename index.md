@@ -30,36 +30,40 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24  
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
 Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)  
-Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
+**(New)** Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
 
 Wednesday 28/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
 Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
-Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)
+**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)  
+**(New)** [Video recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=cbaef718d725d04ec38de07a1289338d)  
 
 Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
-[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python 
+[Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python  
+**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1K-ohlOds1bCcI70CVekdb9fvfuRYSGRA?usp=sharing)  
+**(New)** Solutions to written exercises: [ExercisesSolutions_Chap2.pdf](./Material/ExercisesSolutions_Chap2.pdf)  
+**(New)** [Video recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=40b6c1d4c0413b4e90c0d4d611f13be0)  
 
 Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
 Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
 
-Monday 04/03, 9:30am - 12:30pm: Seminar room, building 20 (To be confirmed)  
+**(New)** Monday 04/03, 9:30am - 12:30pm: Room 21.6.2, building 21
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
 
-Tuesday 05/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
+**(New)** Tuesday 05/03/20, 9:30am - 12:30pm: Room 3.0.1, building 3
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
 
-Wednesday 06/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
+**(New)** Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP
 
-Thursday 07/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
+**(New)** Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26
 Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))
 
-Friday 08/03/20, 9:30am - 12:30pm: Seminar room, building 20  (To be confirmed)  
+**(New)** Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25
 Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem
 
@@ -74,6 +78,12 @@ Teams of two students
 [Project](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/project.html) (50%): each team submits one report  
 
 To pass the course, a student must have successfully completed one of the assignment and the project.
+
+
+# Additional information
+
+(**New**) Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
+Optional seminar: [Data-driven Conditional Robust Optimization](https://www.deib.polimi.it/ita/eventi/dettagli/2861)
 
 
 

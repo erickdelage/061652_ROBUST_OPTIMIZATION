@@ -16,7 +16,7 @@ Colab code for exercises 3.4: [Google Colab notebook](https://colab.research.goo
 <span style="color:red">**Warning!** Make sure to also fill in the section of the code requesting the implementation of the reduced form of the robust optimization model. You should be brave enough to attempt it.</span>
 
 
-Due date : Monday, March 4th, 2024.  
+**(New)** Due date (revised): Friday, March 8th, 2024.  
 
 Submit by email at: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=Solutions_assignment_1)
 Your email should contain a pdf presenting the answers to the questions and links to Google Colab notebooks implementing the code. Please make sure that you set the Colab notebook with the sharing setting: "Anyone with the link" is a "viewer".
