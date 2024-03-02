@@ -51,10 +51,12 @@ Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf
 
 **(New)** Monday 04/03, 9:30am - 12:30pm: Room 21.6.2, building 21
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))
+**(New)** Slides used during lecture: [ARC.pdf](./Material/ARC.pdf)  
 
 **(New)** Tuesday 05/03/20, 9:30am - 12:30pm: Room 3.0.1, building 3
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
+**(New)** Slides used during lecture: [AARC.pdf](./Material/AARC.pdf)  
 
 **(New)** Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
