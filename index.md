@@ -63,7 +63,7 @@ Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v
 **(New)** Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP  
-**(New)** Slides used during lecture: [RobustNLP.pdf](./Material/[RobustNLP.pdf)  
+**(New)** Slides used during lecture: [RobustNLP.pdf](./Material/RobustNLP.pdf)  
 
 **(New)** Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26  
 Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))  
