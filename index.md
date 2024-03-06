@@ -95,4 +95,4 @@ Slides: [Data_driven_RO_TALK.pdf](./Data_driven_RO_TALK.pdf)
 
 **(New)** Friday 08/03, 3:00pm - 4:00pm: Online  
 Optional seminar: M. Poursoltani and A. Chenreddy present on Data-driven CRO and Prescriptive optimization  
-Link: [ROW webinar](https://sites.google.com/view/row-series/home?authuser=0)
+Link: [ROW webinar website](https://sites.google.com/view/row-series/home?authuser=0)
