@@ -89,8 +89,10 @@ To pass the course, a student must have successfully completed one of the assign
 
 # Additional information
 
-(**New**) Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
+**(New)** Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
 Optional seminar: [Data-driven Conditional Robust Optimization](https://www.deib.polimi.it/ita/eventi/dettagli/2861)  
 Slides: [Data_driven_RO_TALK.pdf](./Data_driven_RO_TALK.pdf)
 
-
+**(New)** Friday 08/03, 3:00pm - 4:00pm: Online  
+Optional seminar: M. Poursoltani and A. Chenreddy present on Data-driven CRO and Prescriptive optimization  
+Link: [ROW webinar](https://sites.google.com/view/row-series/home?authuser=0)
