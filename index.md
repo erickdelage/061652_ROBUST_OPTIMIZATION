@@ -68,7 +68,7 @@ Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))
 
 **(New)** Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26  
 Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))  
-**(New)** [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem  
+[Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem  
 **(New)** Slides used during lecture: [DRO.pdf](./Material/DRO.pdf)  
 
 **(New)** Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
