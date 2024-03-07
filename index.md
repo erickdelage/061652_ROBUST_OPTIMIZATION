@@ -74,6 +74,7 @@ Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v
 **(New)** Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
 **(New)** Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf) + [Mohajerin Esfahani \& Kuhn, 2017](https://link.springer.com/article/10.1007/s10107-017-1172-1))  
 **(New)** Slides used during lecture: [Wasserstein_Talk.pdf](./Material/Wasserstein_Talk.pdf)  
+**(New)** Solution to exercise: [Chap8_ExSolutions.pdf](./Material/Chap8_ExSolutions.pdf)
 
 # Evaluation
 
