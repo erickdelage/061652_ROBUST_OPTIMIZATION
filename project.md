@@ -15,7 +15,7 @@ Generally speaking, the final project report should be 10-12 pages long and disc
 - Summary of numerical findings
 
 Due date of proposal: March 8th, 2024  
-Due date for report: May 8th, 2024  
+Due date for report: May 8th, 2024  **!!(New due date of May 22nd, 2024)!!**  
 Submit by email at this address: [erick.delage@hec.ca](mailto:erick.delage@hec.ca?subject=061652_Project:)
 
 Refer to this list of scientific papers for suggested topics: [pdf](./ProjectReferenceList.pdf)  
