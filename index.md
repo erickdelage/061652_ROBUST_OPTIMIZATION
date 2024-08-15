@@ -63,7 +63,6 @@ Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP  
 **(New)** Slides used during lecture: [RobustNLP.pdf](./Material/RobustNLP.pdf)  
-**(New)** Solution to exercise: [Chap6_ExSolutions.pdf](./Material/Chap6_ExSolutions.pdf)  
 **(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/f1f48497bdc1103cbffbf69a1c3ef9b1/playback)
 
 **(New)** Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26  
@@ -75,7 +74,6 @@ Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v
 **(New)** Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
 **(New)** Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf) + [Mohajerin Esfahani \& Kuhn, 2017](https://link.springer.com/article/10.1007/s10107-017-1172-1))  
 **(New)** Slides used during lecture: [Wasserstein_Talk.pdf](./Material/Wasserstein_Talk.pdf)  
-**(New)** Solution to exercise: [Chap8_ExSolutions.pdf](./Material/Chap8_ExSolutions.pdf)
 
 # Evaluation
 
