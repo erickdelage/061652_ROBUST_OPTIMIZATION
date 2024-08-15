@@ -57,7 +57,6 @@ Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
 **(New)** Slides used during lecture: [AARC.pdf](./Material/AARC.pdf)  
-**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1CPpgevpXLFs3DwqD_Czq5G1KCqYsp177?usp=sharing)  
 **(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5bbd74a2bcf9103cb5b70e487976d478/playback)
 
 **(New)** Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
