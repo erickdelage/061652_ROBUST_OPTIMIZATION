@@ -41,14 +41,11 @@ Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)
 Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python  
-**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1K-ohlOds1bCcI70CVekdb9fvfuRYSGRA?usp=sharing)  
-**(New)** Solutions to written exercises: [ExercisesSolutions_Chap2.pdf](./Material/ExercisesSolutions_Chap2.pdf)  
 **(New)** [Video recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=40b6c1d4c0413b4e90c0d4d611f13be0)  
 
 Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
 Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
-**(New)** Solution to exercise: [Google Colab](https://colab.research.google.com/drive/117hrrdjCa60Ook1_PmNJYKEI6_z92kXz?usp=sharing)  
 **(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/4315bec2b9d5103cb6fd4e40f2de3308/playback)  
 
 **(New)** Monday 04/03, 9:30am - 12:30pm: Room 21.6.2, building 21  
