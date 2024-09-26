@@ -30,50 +30,43 @@ We will implement robust optimization using the [RSOME](https://xiongpengnus.git
 Tuesday 27/02, 9:30am - 12:30pm: Room Alpha, building 24  
 Readings: Why do robust optimization? ([Ch.1](./LectureNotes_v15.pdf)) + Convex optimization ([Ch.10.1](./LectureNotes_v15.pdf))  
 Slides used during lecture: [Intro.pdf](./Material/Intro.pdf) and [ConvexAnalysis.pdf](./Material/ConvexAnalysis.pdf)  
-**(New)** Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
+Ipad notes: [Ipad27022024.pdf](./Material/Ipad27022024.pdf)
 
 Wednesday 28/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Linear Programming ([Ch.2](./LectureNotes_v15.pdf))  
 Slides used during lecture: [RobustLP.pdf](./Material/RobustLP.pdf)  
-**(New)** Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=cbaef718d725d04ec38de07a1289338d)  
+Google Colab code written in class: [Colab notebook](https://colab.research.google.com/drive/1tCD19rljolHoNuBbhrMUZ2bxZJN6Ueva?usp=sharing)  
 
 Thursday 29/02, 9:30am - 12:30pm: Room 25.2.1, building 25  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust LP  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing a robust linear program in Python  
-**(New)** [Video recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=40b6c1d4c0413b4e90c0d4d611f13be0)  
 
 Friday 01/03, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings:  Uncertainty set design ([Ch.3](./LectureNotes_v15.pdf))  
 Slides used during lecture: [UncertaintySets.pdf](./Material/UncertaintySets.pdf)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/4315bec2b9d5103cb6fd4e40f2de3308/playback)  
 
-**(New)** Monday 04/03, 9:30am - 12:30pm: Room 21.6.2, building 21  
+Monday 04/03, 9:30am - 12:30pm: Room 21.6.2, building 21  
 Readings: Adjustable Robust Linear Programming - Part 1 ([Ch.4](./LectureNotes_v15.pdf))  
-**(New)** Slides used during lecture: [ARC.pdf](./Material/ARC.pdf)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/b5d7958ebc32103cafbe529fab21170d/playback)
+Slides used during lecture: [ARC.pdf](./Material/ARC.pdf)  
 
-**(New)** Tuesday 05/03/20, 9:30am - 12:30pm: Room 3.0.1, building 3  
+Tuesday 05/03/20, 9:30am - 12:30pm: Room 3.0.1, building 3  
 Readings: Adjustable Robust Linear Programming - Part 2 ([Ch.5](./LectureNotes_v15.pdf))  
 [Lab](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Implementing an adjustable robust linear program in Python  
-**(New)** Slides used during lecture: [AARC.pdf](./Material/AARC.pdf)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5bbd74a2bcf9103cb5b70e487976d478/playback)
+Slides used during lecture: [AARC.pdf](./Material/AARC.pdf)  
 
-**(New)** Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
+Wednesday 06/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
 Readings: Robust Non-linear programming ([Ch.6](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a robust NLP  
-**(New)** Slides used during lecture: [RobustNLP.pdf](./Material/RobustNLP.pdf)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/f1f48497bdc1103cbffbf69a1c3ef9b1/playback)
+Slides used during lecture: [RobustNLP.pdf](./Material/RobustNLP.pdf)  
 
-**(New)** Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26  
+Thursday 07/03/20, 9:30am - 12:30pm: Room 26.0.2, building 26  
 Readings: Distributionally robust optimization - Part 1 ([Ch.8](./LectureNotes_v15.pdf))  
 [Exercise](https://erickdelage.github.io/061652_ROBUST_OPTIMIZATION/labs.html): Deriving the reformulation of a distributionally robust optimization problem  
-**(New)** Slides used during lecture: [DRO.pdf](./Material/DRO.pdf)  
-**(New)** [Video recording](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/651f4cf6be8b103cbddfd27abfdfbb38/playback)
+Slides used during lecture: [DRO.pdf](./Material/DRO.pdf)  
 
-**(New)** Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
-**(New)** Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf) + [Mohajerin Esfahani \& Kuhn, 2017](https://link.springer.com/article/10.1007/s10107-017-1172-1))  
-**(New)** Slides used during lecture: [Wasserstein_Talk.pdf](./Material/Wasserstein_Talk.pdf)  
+Friday 08/03/20, 9:30am - 12:30pm: Room 25.2.1, building 25  
+Readings: Distributionally robust optimization - Part 2 ([Ch.8](./LectureNotes_v15.pdf) + [Mohajerin Esfahani \& Kuhn, 2017](https://link.springer.com/article/10.1007/s10107-017-1172-1))  
+Slides used during lecture: [Wasserstein_Talk.pdf](./Material/Wasserstein_Talk.pdf)  
 
 # Evaluation
 
@@ -90,10 +83,10 @@ To pass the course, a student must have successfully completed one of the assign
 
 # Additional information
 
-**(New)** Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
+Monday 04/03, 3:00pm - 4:00pm: DEIB - Alpha Room (Building 24)  
 Optional seminar: [Data-driven Conditional Robust Optimization](https://www.deib.polimi.it/ita/eventi/dettagli/2861)  
 Slides: [Data_driven_RO_TALK.pdf](./Data_driven_RO_TALK.pdf)
 
-**(New)** Friday 08/03, 3:00pm - 4:00pm: Online  
+Friday 08/03, 3:00pm - 4:00pm: Online  
 Optional seminar: M. Poursoltani and A. Chenreddy present on Data-driven CRO and Prescriptive optimization  
 Link: [ROW webinar website](https://sites.google.com/view/row-series/home?authuser=0)
